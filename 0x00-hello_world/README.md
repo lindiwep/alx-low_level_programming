@@ -1,1 +1,1 @@
-4 puts
+100 intel
